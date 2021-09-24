@@ -13,13 +13,13 @@ public class Main {
         readingListWithFileReader();
 //        2.
 //        readFileUsingBufferReader();
-//        3.
+////        3.
 //        readFileWithScanner();
-//        4.
+////        4.
 //        readFileAsString();
-//        5.
+////        5.
 //        readFilesWithListOfLines();
-//        6.
+////        6.
 //        readFileUsingDelimiter();
     }
 
